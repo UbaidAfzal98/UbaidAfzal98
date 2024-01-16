@@ -8,4 +8,4 @@ I am Ubaid Afzal, an undergraduate student from Deogiri Institute of Engineering
 <br>
 
 #### Contact Information
-[![Gmail](https://img.shields.io/badge/gmail-Contact-blue?style=for-the-badge&logo=mail.ru)](mailto:ubaidafzal339@gmail.com)
+[![Email](https://img.shields.io/badge/gmail-Contact-blue?style=for-the-badge&logo=mail.ru)](mailto:ubaidafzal339@gmail.com)
